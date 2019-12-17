@@ -1,5 +1,6 @@
 # StackedAutoencoders
-Stacked Autoencoders in Image classification
+Stacked Autoencoders in Image Classification
+For more in depth explanation visit: https://www.linkedin.com/pulse/stacked-autoencoders-image-classification-vargha-hokmran
 
 The CIFAR-10 dataset has 50,000 train images and 10,000 test images. This can take long.
 Prepare a smaller training set: 10,000 training samples and 5,000 test samples.
